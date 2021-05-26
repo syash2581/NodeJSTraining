@@ -6,7 +6,7 @@
 Training Day 1
 
 # Tasks Performed
-- [x] @https://drive.google.com/file/d/1m81N0I3DJqSSzktHzUQ_SDNxAKTxPgwX/view
+- [x] <a href="https://drive.google.com/file/d/1m81N0I3DJqSSzktHzUQ_SDNxAKTxPgwX/view"> Recorded Lecture </a> 
 - [x] Introduction to node js <br/>
 - [x] Intsallation of node js and npm. <br/>
 - [x] How to Create GitHub Account <br/>
