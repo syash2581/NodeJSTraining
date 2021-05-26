@@ -2,7 +2,15 @@
 15 days training work on ***_NodeJS_***
 
 
-Training Day 1
+Training Day 2
+
+# core modules required
+- http => for node.js http server
+- url => URL resolution and parsing
+- querystring =>  methods to deal with file querystring.
+- path => methods to deal with file paths.
+- fs => to work with I/O
+- util => utility functions.s
 
 # Tasks Performed
 - [x] Introduction to android <br/>
