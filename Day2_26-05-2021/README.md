@@ -4,13 +4,16 @@
 
 Training Day 2
 
-# core modules required
+# core modules required:
 - http => for node.js http server
 - url => URL resolution and parsing
 - querystring =>  methods to deal with file querystring.
 - path => methods to deal with file paths.
 - fs => to work with I/O
-- util => utility functions.s
+- util => utility functions.
+
+# Loading core modules:
+- var module = requrie('module_name');
 
 # Tasks Performed
 - [x] Introduction to android <br/>
