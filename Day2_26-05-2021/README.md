@@ -14,7 +14,7 @@ Training Day 2
 - util => utility functions.
 
 # Loading core modules:
-- var module = requrie('module_name');
+- var module = require('module_name');
 
 # Tasks Performed
 
