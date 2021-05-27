@@ -5,6 +5,8 @@
 Training Day 2
 
 # Tasks Performed
+
+- [x] <a href="https://youtu.be/OJMcVoT2Itg">2nd Day - Node JS Internship </a>
 - [x] Introduction to node js <br/>
 - [x] Intsallation of express and understanding core modules <br/>
 - [x] Creating your first local server <br/>
