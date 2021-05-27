@@ -3,7 +3,7 @@
 
 
 Training Day 2
-<<<<<<< HEAD
+
 
 # core modules required:
 - http => for node.js http server
@@ -15,8 +15,6 @@ Training Day 2
 
 # Loading core modules:
 - var module = requrie('module_name');
-=======
->>>>>>> 15e15561ddac54dbbbb9982d942c6c63a24bf4b4
 
 # Tasks Performed
 
