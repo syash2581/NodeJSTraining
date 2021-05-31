@@ -12,5 +12,10 @@
 
 ### FS Module
 
-- [X] fs.mkdir(path.join(__dirname,'test'),(err)=>{});
-- [X] 
+- [X] make directory
+- [X] file create
+- [X] file open
+- [X] file writeFile
+- [X] file appednFie
+- [X] file renameFile
+- [X] file readFile
