@@ -16,6 +16,6 @@
 - [X] file create
 - [X] file open
 - [X] file writeFile
-- [X] file appednFie
+- [X] file appendFie
 - [X] file renameFile
 - [X] file readFile
