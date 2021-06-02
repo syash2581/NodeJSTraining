@@ -4,7 +4,6 @@
 
 Training Day 2
 
-
 # core modules required:
 - http => for node.js http server
 - url => URL resolution and parsing
@@ -13,7 +12,7 @@ Training Day 2
 - fs => to work with I/O
 - util => utility functions.
 
-# Loading core modules:
+## Loading core modules:
 - var module = require('module_name');
 
 # Tasks Performed
